@@ -1,0 +1,8 @@
+.all_buttons{
+    -fx-background-color: black;
+    -fx-border-color:red;
+    -fx-border-radius :50px 50px 50px 50px;
+    -fx-background-radius : 50px 50px 50px 50px;
+    -fx-border-width:2px;
+    -fx-text-fill: red;
+}

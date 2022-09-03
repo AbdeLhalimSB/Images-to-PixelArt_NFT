@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Images to PixelArt NFT.jnlp">
+  <information>
+    <title>Images to PixelArt NFT</title>
+    <vendor>AbdeLhalim</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  <shortcut><desktop/></shortcut>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Images-to-PixelArt_NFT.jar" size="353066" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="images.to.pixelart_nft.ImagesToPixelArt_NFT"  name="Images to PixelArt NFT" />
+  <update check="always"/>
+</jnlp>
